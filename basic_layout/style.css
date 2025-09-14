@@ -1,0 +1,26 @@
+#header {
+    background-color: rgb(118, 118, 230);
+    height: 30px;
+}
+
+.article {
+    display: flex;
+    flex-direction: row;
+}
+
+.section1 {
+    width: 50%;
+    height: 300px;
+    background-color: rgb(235, 61, 61);
+}
+
+.section2 {
+    width:50%;
+    height: 300px;
+    background-color: rgb(230, 230, 56);
+}
+
+#footer {
+    height: 30px;
+    background-color: rgb(118, 118, 230);
+}
